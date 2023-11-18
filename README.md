@@ -1,6 +1,23 @@
-![.editorconfig Banner](Images/Banner.png)
+<div align="center">
+    <img src="Images/Banner.png" alt="Logo" width="80" height="80">
 
-A very generic [.editorconfig](https://github.com/RehanSaeed/EditorConfig/blob/main/.editorconfig) file supporting the following file types:
+    <h3 align="center">Editor Config</h3>
+    <p align="center">
+        My preference of "a very generic .editorconfig file supporting .NET, C#, VB and web technologies".
+        <br />
+        <a href="https://github.com/torabi-ali/EditorConfig"><strong>Explore the docs »</strong></a>
+        <br />
+        <br />
+        <a href="https://github.com/torabi-ali/EditorConfig/releases/latest">Download</a>
+        .
+        <a href="https://github.com/torabi-ali/EditorConfig/issues">Report Bug</a>
+        ·
+        <a href="https://github.com/torabi-ali/EditorConfig/issues">Request Feature</a>
+    </p>
+</div>
+
+
+A very generic .editorconfig file supporting the following file types:
 
 - C# - .cs, .csx, .cake
 - Visual Basic - .vb, vbx
